@@ -5,7 +5,7 @@ public class Main {
 
         ArrayQueue players = new ArrayQueue(50); // Player array
         ArrayQueue queue = new ArrayQueue(50); // Queue array
-        ArrayQueue game = new ArrayQueue(5); // In game array
+        ArrayQueue game = new ArrayQueue(50); // In game array
 
         int min = 1; // Minimum x value
         int max = 7; // Maximum x value
